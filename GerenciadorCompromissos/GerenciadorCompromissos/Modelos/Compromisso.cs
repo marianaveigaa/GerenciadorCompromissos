@@ -57,7 +57,7 @@ public class Compromisso
     {
         return $"Compromisso: {Descricao}\n" +
                $"Data: {Data}\n" +
-               $"Hora: {Hora:hh\\:mm}\n" +
+               $"Hora: {HoraFormatada}\n" +
                $"Local: {Local}";
     }
 }
