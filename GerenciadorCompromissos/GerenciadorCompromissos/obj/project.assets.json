@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\GerenciadorCompromissos\\GerenciadorCompromissos\\GerenciadorCompromissos\\GerenciadorCompromissos.csproj",
-      "projectName": "GerenciadorCompromissos",
-      "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\GerenciadorCompromissos\\GerenciadorCompromissos\\GerenciadorCompromissos\\GerenciadorCompromissos.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\GerenciadorCompromissos\\GerenciadorCompromissos\\GerenciadorCompromissos\\ConsoleAPP.csproj",
+      "projectName": "ConsoleAPP",
+      "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\GerenciadorCompromissos\\GerenciadorCompromissos\\GerenciadorCompromissos\\ConsoleAPP.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\GitHub\\GerenciadorCompromissos\\GerenciadorCompromissos\\GerenciadorCompromissos\\obj\\",
       "projectStyle": "PackageReference",
